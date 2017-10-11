@@ -8,3 +8,4 @@ JOUR-2017-10-07.txt 86bdfbbd7b3c4b6ae07baace8fce3ae7
 JOUR-2017-10-08.txt 1a3dc981cecac045695c1ace54825acc  
 JOUR-2017-10-09.txt 47eb2ab4c72914b9ddf328b6be7f42de  
 JOUR-2017-10-10.txt 4327b2ac80f3fc7934ca10e2ab806cff  
+JOUR-2017-10-11.txt 3b5c7b33d61ae041052eab26f2df3f0c  
